@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "wH/CKPjVzTFU1f6KdWp20baLMzBe3nFnXeyGhTRBLlMsjpvM/9baN++W9v5T4rFBDFvJfdjw62kZZfmawsy24g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ethan Worden\\source\\repos\\LeetCode-Export-Project\\LeetCode-Export-Project\\LeetCode-Export-Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\graphql\\7.3.1\\graphql.7.3.1.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\graphql-parser\\8.1.0\\graphql-parser.8.1.0.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\graphql.client\\5.1.1\\graphql.client.5.1.1.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\graphql.client.abstractions\\5.1.1\\graphql.client.abstractions.5.1.1.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\graphql.client.abstractions.websocket\\5.1.1\\graphql.client.abstractions.websocket.5.1.1.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\5.1.1\\graphql.client.serializer.newtonsoft.5.1.1.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\graphql.primitives\\5.1.1\\graphql.primitives.5.1.1.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\selenium.support\\4.8.2\\selenium.support.4.8.2.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\selenium.webdriver\\4.8.2\\selenium.webdriver.4.8.2.nupkg.sha512",
+    "C:\\Users\\Ethan Worden\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
